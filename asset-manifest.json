@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/phis-proj/static/css/main.62fb20d5.css",
-    "main.js": "/phis-proj/static/js/main.5a957c06.js",
+    "main.css": "/phis-proj/static/css/main.3b7a8a97.css",
+    "main.js": "/phis-proj/static/js/main.b47f3bff.js",
     "index.html": "/phis-proj/index.html",
-    "main.62fb20d5.css.map": "/phis-proj/static/css/main.62fb20d5.css.map",
-    "main.5a957c06.js.map": "/phis-proj/static/js/main.5a957c06.js.map"
+    "main.3b7a8a97.css.map": "/phis-proj/static/css/main.3b7a8a97.css.map",
+    "main.b47f3bff.js.map": "/phis-proj/static/js/main.b47f3bff.js.map"
   },
   "entrypoints": [
-    "static/css/main.62fb20d5.css",
-    "static/js/main.5a957c06.js"
+    "static/css/main.3b7a8a97.css",
+    "static/js/main.b47f3bff.js"
   ]
 }
